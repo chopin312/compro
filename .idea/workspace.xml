@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38db64a3-631b-4019-9c25-db02af8d0441" name="Changes" comment="Add Ex1.1">
-      <change afterPath="$PROJECT_DIR$/Execise1/Ex1.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex1.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Execise1/Ex1.1.py" afterDir="false" />
-    </list>
+    <list default="true" id="38db64a3-631b-4019-9c25-db02af8d0441" name="Changes" comment="Add folder Exercise + Ex1.2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -153,7 +149,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1629441799298</updated>
-      <workItem from="1629441804229" duration="2152000" />
+      <workItem from="1629441804229" duration="2527000" />
     </task>
     <task id="LOCAL-00001" summary="add test,py">
       <created>1629442102824</created>
@@ -176,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629442773370</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add folder Exercise + Ex1.2">
+      <created>1629444169690</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1629444169690</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,7 +200,8 @@
     <MESSAGE value="add test,py" />
     <MESSAGE value="change test" />
     <MESSAGE value="Add Ex1.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Ex1.1" />
+    <MESSAGE value="Add folder Exercise + Ex1.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add folder Exercise + Ex1.2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -212,7 +216,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/compro$Hello_World.coverage" NAME="Hello World Coverage Results" MODIFIED="1629442281673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/compro$Ex1_2.coverage" NAME="Ex1.2 Coverage Results" MODIFIED="1629443831776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Execise1" />
+    <SUITE FILE_PATH="coverage/compro$Ex1_2.coverage" NAME="Ex1.2 Coverage Results" MODIFIED="1629444017198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Execise1" />
     <SUITE FILE_PATH="coverage/compro$Test.coverage" NAME="Test Coverage Results" MODIFIED="1629442352472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/compro$Ex1_1.coverage" NAME="Ex1.1 Coverage Results" MODIFIED="1629442785909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
