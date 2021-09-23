@@ -20,7 +20,7 @@ if Vaccine == "n":
     else:
         Pfizer = 1
 else:
-    if NumDose == 1:
+    if 1 == NumDose:
         Pfizer = 1
     elif NumDose == 2:
         if Vacc[1] == Vacc[2] == "sv" or Vacc[1] == Vacc[2] == "sp":

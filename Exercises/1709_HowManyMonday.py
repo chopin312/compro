@@ -5,7 +5,7 @@ InterDay = 2
 Count = 0
 D = FirstDay
 for i in range(1, Day+1):
-    print(D)
+#    print(D)
     if D == InterDay:
         Count += 1
     if D == 7:
